@@ -1,0 +1,48 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glass" x1="450" y1="90" x2="450" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFDFB"/>
+      <stop offset="1" stop-color="#EDE4D8"/>
+    </linearGradient>
+    <linearGradient id="drink" x1="450" y1="280" x2="450" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3E1BB"/>
+      <stop offset="0.35" stop-color="#B7743A"/>
+      <stop offset="1" stop-color="#4A2B1E"/>
+    </linearGradient>
+    <linearGradient id="foam" x1="450" y1="180" x2="450" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFDF8"/>
+      <stop offset="1" stop-color="#F0E4D2"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path d="M250 230C250 187.026 285.026 152 328 152H572C614.974 152 650 187.026 650 230V270C650 284.359 638.359 296 624 296H276C261.641 296 250 284.359 250 270V230Z" fill="url(#foam)" stroke="#B38B62" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M245 245C245 188.215 290.215 143 347 143H553C609.785 143 655 188.215 655 245V260C655 304.183 619.183 340 575 340H325C280.817 340 245 304.183 245 260V245Z" fill="url(#glass)" stroke="#9D7C59" stroke-width="12"/>
+    <path d="M305 310C305 281.281 329.281 257 358 257H542C570.719 257 595 281.281 595 310V610C595 684.421 533.421 746 459 746H441C366.579 746 305 684.421 305 610V310Z" fill="url(#glass)" stroke="#9D7C59" stroke-width="12"/>
+    <path d="M327 318H573C576.308 318 579.278 320.227 579.672 323.487L592.858 429.087C594.016 437.338 587.845 445 579.48 445H320.52C312.155 445 305.984 437.338 307.142 429.087L320.328 323.487C320.722 320.227 323.692 318 327 318Z" fill="url(#drink)"/>
+    <path d="M318 402C350 390 375 382 445 380C510 378 566 392 585 405V616C565 686 507 731 451 731C396 731 336 688 318 616V402Z" fill="url(#drink)" opacity="0.92"/>
+    <path d="M345 296C430 275 515 277 584 324C557 301 529 292 500 290C475 289 453 293 430 303C405 314 381 332 360 356C351 335 345 315 345 296Z" fill="#EFCF9E" opacity="0.8"/>
+    <path d="M470 361C502 323 563 325 597 348" stroke="#4B2D1B" stroke-width="18" stroke-linecap="round"/>
+    <path d="M386 364C355 334 302 330 266 360" stroke="#4B2D1B" stroke-width="18" stroke-linecap="round"/>
+    <path d="M358 548C350 521 383 514 396 533C409 553 410 578 399 591C388 604 360 599 358 548Z" fill="#4A2C1C"/>
+    <path d="M467 534C488 507 536 510 548 541C559 570 579 587 562 619C547 647 501 645 482 617C460 585 459 556 467 534Z" fill="#4A2C1C"/>
+    <path d="M314 556C330 544 342 556 344 577C347 596 340 615 324 630C311 642 293 644 282 628C269 609 287 568 314 556Z" fill="#4A2C1C"/>
+    <path d="M600 465C620 449 652 448 670 462C691 478 672 512 639 518C613 523 586 507 600 465Z" fill="#4B2D1D"/>
+    <path d="M563 296L602 256" stroke="#8D5E36" stroke-width="11" stroke-linecap="round"/>
+    <path d="M597 246L658 200" stroke="#35251E" stroke-width="18" stroke-linecap="round"/>
+    <g opacity="0.9">
+      <path d="M370 280L350 250L390 240L410 275L370 280Z" fill="#F8F2EA"/>
+      <path d="M470 275L445 233L500 223L520 274L470 275Z" fill="#F8F2EA"/>
+      <path d="M545 294L510 256L564 238L594 288L545 294Z" fill="#F8F2EA"/>
+    </g>
+    <g>
+      <path d="M394 487L420 462L448 487L420 515L394 487Z" fill="#F6F4F1"/>
+      <path d="M495 490L518 467L542 490L518 516L495 490Z" fill="#F6F4F1"/>
+      <path d="M443 566L468 542L495 566L468 592L443 566Z" fill="#F6F4F1"/>
+    </g>
+    <path d="M365 446C382 430 398 433 410 447C423 461 420 480 402 492C385 504 362 499 353 483C344 468 350 458 365 446Z" fill="#F2EFEA"/>
+    <path d="M515 442C532 426 549 430 561 445C574 460 573 479 554 489C536 500 517 493 507 474C499 460 501 450 515 442Z" fill="#F2EFEA"/>
+    <path d="M426 606C452 620 478 620 501 606" stroke="#E7DCCB" stroke-width="10" stroke-linecap="round"/>
+    <path d="M310 340C345 328 362 302 367 270" stroke="#E5D5B5" stroke-width="8" stroke-linecap="round" opacity="0.9"/>
+    <path d="M590 340C560 323 544 299 544 274" stroke="#E5D5B5" stroke-width="8" stroke-linecap="round" opacity="0.9"/>
+  </g>
+</svg>
